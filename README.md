@@ -1,7 +1,7 @@
 Challenge 1
 
 Description
-This webpage is designed to help others understand that Horiseon is able to update you with Search Enging Optimization, Online Reputation Management, and Social Media Marketing. They provide examples and reasoning for why each is an important matter for you business. 
+This webpage is designed to help others understand that Horiseon is able to update you with Search Enging Optimization, Online Reputation Management, and Social Media Marketing. They provide examples and reasoning for why each is an important matter for you business. git ststuas
 
 Website URL
 https://vladesovc.github.io/Challenge-1/
@@ -13,4 +13,4 @@ Credits
 N/A
 
 License
-Please refer to the LICENSE in the repo.
+Please refer to the LICENSE in the repo.git statu
